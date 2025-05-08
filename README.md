@@ -1,4 +1,4 @@
-# 🧠 AI-Based Salary Predictor
+# 🧠 Smart Salary Predictor
 
 A web application that provides estimated salary insights based on user-selected job roles, countries, experience, and skill levels. Useful for career planning and understanding global salary benchmarks.
 
