@@ -6,7 +6,6 @@ A web application that provides estimated salary insights based on user-selected
 
 - **Frontend:** React.js, Next.js, Tailwind CSS  
 - **Backend:** FastAPI  
-- **Hosting:** Vercel (Frontend), Render/Local (Backend)  
 - **Data:** Manually curated salary dataset by job role and country
 
 ## ✨ Features
