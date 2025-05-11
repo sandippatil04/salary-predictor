@@ -16,13 +16,6 @@ A web application that provides estimated salary insights based on user-selected
 - Country-wise and role-wise salary mapping
 - Skill level selection (Beginner/Pro) for better estimation
 
-## 📸 Screenshots
-
-```md
-![Home Page](public/home.png)
-![Salary Prediction](public/service.png)
-![About](public/about.png)
-
 
 🚀 Getting Started (Local Development)
 1. Clone the Repository
